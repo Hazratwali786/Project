@@ -1,3 +1,3 @@
 # Project
-Covid 19 Project in Power Bi
+COVID19 QUICKSTART Project in Power Bi
 
